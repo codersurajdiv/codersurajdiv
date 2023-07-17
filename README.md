@@ -6,15 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- ⭐️ I'm skilled in **R Programming**
+
 - 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **R Shiny**
 
-- 💬 Ask me about **Anything Excel, SQL and R. And football ;)**
+- 💬 Ask me about **Anything Excel, SQL and R. and football ;)**
 
-- 📫 How to reach me **suraj.divakala@bath.edu**
+- 📫 Reach me on **suraj.divakala@bath.edu**
 
-- ⚡ Fun fact **Dad jokes are my jam**
+- ⚡ Fun fact about me **Dad jokes are my jam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
